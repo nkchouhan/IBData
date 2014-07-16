@@ -122,7 +122,7 @@ PLATFORMS
 
 DEPENDENCIES
   coffee-rails (~> 4.0.0)
-  ib-ruby (~> 0.9)
+  ib-ruby
   jbuilder (~> 2.0)
   jquery-rails
   mysql2
